@@ -22,6 +22,7 @@
     <div class="profile-card">
         <h2>Welcome, <%= user.getFullName() %>!</h2>
         <p><strong>Email:</strong> <%= user.getEmail() %></p>
+        <p><strong>Phone Number:</strong> <%= user.getPhoneNumber() %></p>
         <p><strong>Role ID:</strong> <%= user.getRoleId() %></p>
         <p><strong>Status:</strong> <%= user.getStatus() %></p>
 
