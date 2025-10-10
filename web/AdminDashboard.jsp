@@ -63,8 +63,11 @@
                 <a href="usermanagement.jsp">User Management</a>
                 <a href="agentmanagement.jsp">Agent Management</a>
                 <a href="contracts">Contract Detail</a>
-               
+               <div class="logout">
+                    <a href="LogoutServlet">🚪 Đăng xuất</a>
+                </div>
             </div>
+            
 
             <!-- Content-->
             <div class="content">
